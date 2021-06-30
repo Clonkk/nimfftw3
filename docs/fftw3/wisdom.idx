@@ -1,0 +1,10 @@
+fftw_forget_wisdom	fftw3/wisdom.html#fftw_forget_wisdom	wisdom: fftw_forget_wisdom()	
+fftw_export_wisdom_to_filename	fftw3/wisdom.html#fftw_export_wisdom_to_filename,cstring	wisdom: fftw_export_wisdom_to_filename(filename: cstring): cint	
+fftw_export_wisdom_to_file	fftw3/wisdom.html#fftw_export_wisdom_to_file,ptr.File	wisdom: fftw_export_wisdom_to_file(output_file: ptr File)	
+fftw_export_wisdom_to_string	fftw3/wisdom.html#fftw_export_wisdom_to_string	wisdom: fftw_export_wisdom_to_string(): cstring	
+fftw_export_wisdom	fftw3/wisdom.html#fftw_export_wisdom,fftw_write_char_func,pointer	wisdom: fftw_export_wisdom(write_char: fftw_write_char_func; data: pointer)	
+fftw_import_system_wisdom	fftw3/wisdom.html#fftw_import_system_wisdom	wisdom: fftw_import_system_wisdom(): cint	
+fftw_import_wisdom_from_filename	fftw3/wisdom.html#fftw_import_wisdom_from_filename,cstring	wisdom: fftw_import_wisdom_from_filename(filename: cstring): cint	
+fftw_import_wisdom_from_file	fftw3/wisdom.html#fftw_import_wisdom_from_file,ptr.File	wisdom: fftw_import_wisdom_from_file(input_file: ptr File): cint	
+fftw_import_wisdom_from_string	fftw3/wisdom.html#fftw_import_wisdom_from_string,cstring	wisdom: fftw_import_wisdom_from_string(input_string: cstring): cint	
+fftw_import_wisdom	fftw3/wisdom.html#fftw_import_wisdom,fftw_read_char_func,pointer	wisdom: fftw_import_wisdom(read_char: fftw_read_char_func; data: pointer): cint	

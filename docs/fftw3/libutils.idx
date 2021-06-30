@@ -1,0 +1,36 @@
+Fftw3LibName	fftw3/libutils.html#Fftw3LibName	libutils: Fftw3LibName	
+Fftw3Lib	fftw3/libutils.html#Fftw3Lib	libutils: Fftw3Lib	
+getFftw3Lib	fftw3/libutils.html#getFftw3Lib	libutils: getFftw3Lib(): string	
+FFTW_R2HC	fftw3/libutils.html#FFTW_R2HC	fftw_r2r_kind.FFTW_R2HC	
+FFTW_HC2R	fftw3/libutils.html#FFTW_HC2R	fftw_r2r_kind.FFTW_HC2R	
+FFTW_DHT	fftw3/libutils.html#FFTW_DHT	fftw_r2r_kind.FFTW_DHT	
+FFTW_REDFT00	fftw3/libutils.html#FFTW_REDFT00	fftw_r2r_kind.FFTW_REDFT00	
+FFTW_REDFT01	fftw3/libutils.html#FFTW_REDFT01	fftw_r2r_kind.FFTW_REDFT01	
+FFTW_REDFT10	fftw3/libutils.html#FFTW_REDFT10	fftw_r2r_kind.FFTW_REDFT10	
+FFTW_REDFT11	fftw3/libutils.html#FFTW_REDFT11	fftw_r2r_kind.FFTW_REDFT11	
+FFTW_RODFT00	fftw3/libutils.html#FFTW_RODFT00	fftw_r2r_kind.FFTW_RODFT00	
+FFTW_RODFT01	fftw3/libutils.html#FFTW_RODFT01	fftw_r2r_kind.FFTW_RODFT01	
+FFTW_RODFT10	fftw3/libutils.html#FFTW_RODFT10	fftw_r2r_kind.FFTW_RODFT10	
+FFTW_RODFT11	fftw3/libutils.html#FFTW_RODFT11	fftw_r2r_kind.FFTW_RODFT11	
+fftw_r2r_kind	fftw3/libutils.html#fftw_r2r_kind	libutils: fftw_r2r_kind	
+fftw_iodim	fftw3/libutils.html#fftw_iodim	libutils: fftw_iodim	
+ptrdiff_t	fftw3/libutils.html#ptrdiff_t	libutils: ptrdiff_t	
+wchar_t	fftw3/libutils.html#wchar_t	libutils: wchar_t	
+fftw_iodim64	fftw3/libutils.html#fftw_iodim64	libutils: fftw_iodim64	
+fftw_write_char_func	fftw3/libutils.html#fftw_write_char_func	libutils: fftw_write_char_func	
+fftw_read_char_func	fftw3/libutils.html#fftw_read_char_func	libutils: fftw_read_char_func	
+fftw_plan	fftw3/libutils.html#fftw_plan	libutils: fftw_plan	
+fftw_fprint_plan	fftw3/libutils.html#fftw_fprint_plan,fftw_plan,ptr.File	libutils: fftw_fprint_plan(p: fftw_plan; output_file: ptr File)	
+fftw_print_plan	fftw3/libutils.html#fftw_print_plan,fftw_plan	libutils: fftw_print_plan(p: fftw_plan)	
+fftw_sprint_plan	fftw3/libutils.html#fftw_sprint_plan,fftw_plan	libutils: fftw_sprint_plan(p: fftw_plan): cstring	
+fftw_malloc	fftw3/libutils.html#fftw_malloc,csize_t	libutils: fftw_malloc(n: csize_t): pointer	
+fftw_alloc_real	fftw3/libutils.html#fftw_alloc_real,csize_t	libutils: fftw_alloc_real(n: csize_t): ptr cdouble	
+fftw_alloc_complex	fftw3/libutils.html#fftw_alloc_complex,csize_t	libutils: fftw_alloc_complex(n: csize_t): ptr fftw_complex	
+fftw_free	fftw3/libutils.html#fftw_free,pointer	libutils: fftw_free(p: pointer)	
+fftw_flops	fftw3/libutils.html#fftw_flops,fftw_plan,ptr.cdouble,ptr.cdouble,ptr.cdouble	libutils: fftw_flops(p: fftw_plan; add: ptr cdouble; mul: ptr cdouble; fmas: ptr cdouble)	
+fftw_estimate_cost	fftw3/libutils.html#fftw_estimate_cost,fftw_plan	libutils: fftw_estimate_cost(p: fftw_plan): cdouble	
+fftw_cost	fftw3/libutils.html#fftw_cost,fftw_plan	libutils: fftw_cost(p: fftw_plan): cdouble	
+fftw_alignment_of	fftw3/libutils.html#fftw_alignment_of,ptr.cdouble	libutils: fftw_alignment_of(p: ptr cdouble): cint	
+fftw_version	fftw3/libutils.html#fftw_version	libutils: fftw_version	
+fftw_cc	fftw3/libutils.html#fftw_cc	libutils: fftw_cc	
+fftw_codelet_optim	fftw3/libutils.html#fftw_codelet_optim	libutils: fftw_codelet_optim	

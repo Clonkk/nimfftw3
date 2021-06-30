@@ -1,0 +1,3 @@
+circshift	fftw3/fftshift.html#circshift,Tensor[T],seq[int]	fftshift: circshift[T](t: Tensor[T]; shift: seq[int]): Tensor[T]	
+fftshift	fftw3/fftshift.html#fftshift,Tensor[T]	fftshift: fftshift[T](t: Tensor[T]): Tensor[T]	
+ifftshift	fftw3/fftshift.html#ifftshift,Tensor[T]	fftshift: ifftshift[T](t: Tensor[T]): Tensor[T]	
